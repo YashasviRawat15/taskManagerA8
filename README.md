@@ -1,5 +1,3 @@
-# taskManagerA8
-
 # Task Management API
 
 ## Setup
